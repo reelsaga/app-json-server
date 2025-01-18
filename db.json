@@ -1,10 +1,84 @@
 {
-    "posts": [
-      { "id": 1, "title": "json-server", "author": "typicode" },
-      { "id": 2, "title": "test", "author": "yourAuthor" }
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 }
-    ],
-    "profile": { "name": "typicode" }
+	"shows": [
+        	{
+            	"_id": "67848883a0f5e63a84064a42",
+            	"title": "Battles in the Home",
+            	"pic": "https://v-mps.crazymaplestudios.com/images/285d23e0-d4b0-11ef-9487-233a2ec55662.jpg",
+            	"desc": "In a car accident explosion, the mother suffered extensive burns. After treatment and recovery, she returned to her country. The son expressed his filial piety, but was instead accused by his wife of having an affair. The daughter-in-law humiliated the mother-in-law in every possible way, even putting her in a sack. It was not until the mother-in-law’s real identity was revealed that the daughter-in-law regretted her actions. The mother-in-law listened to the confessions of all the perpetrators.",
+            	"tag": [
+                	"Reunion",
+                	"Hidden Identity",
+                	"Strong-Willed",
+                	"Contemporary",
+                	"Family Drama",
+                	"Female"
+            	],
+            	"episode_count": 62,
+            	"episode_id": "7e7grren5s"
+        	},
+        	{
+            	"_id": "67848883a0f5e63a84064a42",
+            	"title": "Battles in the Home",
+            	"pic": "https://v-mps.crazymaplestudios.com/images/285d23e0-d4b0-11ef-9487-233a2ec55662.jpg",
+            	"desc": "In a car accident explosion, the mother suffered extensive burns. After treatment and recovery, she returned to her country. The son expressed his filial piety, but was instead accused by his wife of having an affair. The daughter-in-law humiliated the mother-in-law in every possible way, even putting her in a sack. It was not until the mother-in-law’s real identity was revealed that the daughter-in-law regretted her actions. The mother-in-law listened to the confessions of all the perpetrators.",
+            	"tag": [
+                	"Reunion",
+                	"Hidden Identity",
+                	"Strong-Willed",
+                	"Contemporary",
+                	"Family Drama",
+                	"Female"
+            	],
+            	"episode_count": 62,
+            	"episode_id": "7e7grren5s"
+        	},
+        	{
+            	"_id": "67848883a0f5e63a84064a42",
+            	"title": "Battles in the Home",
+            	"pic": "https://v-mps.crazymaplestudios.com/images/285d23e0-d4b0-11ef-9487-233a2ec55662.jpg",
+            	"desc": "In a car accident explosion, the mother suffered extensive burns. After treatment and recovery, she returned to her country. The son expressed his filial piety, but was instead accused by his wife of having an affair. The daughter-in-law humiliated the mother-in-law in every possible way, even putting her in a sack. It was not until the mother-in-law’s real identity was revealed that the daughter-in-law regretted her actions. The mother-in-law listened to the confessions of all the perpetrators.",
+            	"tag": [
+                	"Reunion",
+                	"Hidden Identity",
+                	"Strong-Willed",
+                	"Contemporary",
+                	"Family Drama",
+                	"Female"
+            	],
+            	"episode_count": 62,
+            	"episode_id": "7e7grren5s"
+        	},
+        	{
+            	"_id": "67848883a0f5e63a84064a42",
+            	"title": "Battles in the Home",
+            	"pic": "https://v-mps.crazymaplestudios.com/images/285d23e0-d4b0-11ef-9487-233a2ec55662.jpg",
+            	"desc": "In a car accident explosion, the mother suffered extensive burns. After treatment and recovery, she returned to her country. The son expressed his filial piety, but was instead accused by his wife of having an affair. The daughter-in-law humiliated the mother-in-law in every possible way, even putting her in a sack. It was not until the mother-in-law’s real identity was revealed that the daughter-in-law regretted her actions. The mother-in-law listened to the confessions of all the perpetrators.",
+            	"tag": [
+                	"Reunion",
+                	"Hidden Identity",
+                	"Strong-Willed",
+                	"Contemporary",
+                	"Family Drama",
+                	"Female"
+            	],
+            	"episode_count": 62,
+            	"episode_id": "7e7grren5s"
+        	},
+        	{
+            	"_id": "67848883a0f5e63a84064a42",
+            	"title": "Battles in the Home",
+            	"pic": "https://v-mps.crazymaplestudios.com/images/285d23e0-d4b0-11ef-9487-233a2ec55662.jpg",
+            	"desc": "In a car accident explosion, the mother suffered extensive burns. After treatment and recovery, she returned to her country. The son expressed his filial piety, but was instead accused by his wife of having an affair. The daughter-in-law humiliated the mother-in-law in every possible way, even putting her in a sack. It was not until the mother-in-law’s real identity was revealed that the daughter-in-law regretted her actions. The mother-in-law listened to the confessions of all the perpetrators.",
+            	"tag": [
+                	"Reunion",
+                	"Hidden Identity",
+                	"Strong-Willed",
+                	"Contemporary",
+                	"Family Drama",
+                	"Female"
+            	],
+            	"episode_count": 62,
+            	"episode_id": "7e7grren5s"
+        	}
+    	]
 }
